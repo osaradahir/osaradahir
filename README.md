@@ -14,6 +14,10 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
   ![Flutter](https://img.shields.io/badge/Flutter-47C5FB?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST%20API%20-%23000000.svg?style=for-the-badge)
+  ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
 
 <h2 align="center"> Tools 💻 </h2>
 
@@ -29,8 +33,6 @@
 
 <h2 align="center">Additional Skills 🚀</h2>
 
-![REST API](https://img.shields.io/badge/REST%20API%20-%23000000.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
